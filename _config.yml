@@ -10,14 +10,13 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Fabio Souto
-tagline: Fabio Souto personal webpage
+title : Solomon Kim
+tagline: music composer
 author :
-  name : Fabio Souto
-  email : fabio@fabiosouto.me
-  github : fasouto
-  twitter : fsoutomo
-  feedburner : fasouto
+  name : Solomon Kim
+  email : hello@solomonkim.me
+  github : solonoob
+  twitter : solomonkimmusic
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
